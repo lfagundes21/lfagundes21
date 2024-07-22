@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Lucas Fagundes, a Brazilian citizen.
+- 👋 Hi, I’m Lucas Fagundes
+- I have a Bachelor degree in Bussiness Administration at PUCRS and an MBA in Project Managent from UNISINOS.
+- More then 10 years of experience working as a Business System Analyst 
 - 👀 I’m interested in learing how to create / improve softwares using new technologies
 - 🌱 I’m currently learning
           <br>
