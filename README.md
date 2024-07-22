@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas Fagundes, a Brazilian citizen.
-- 👀 I’m interested in learing how to develop using new technologies
+- 👀 I’m interested in learing how to create / improve softwares using new technologies
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on my job as Bussiness System Analyst
 - 📫 if you want do reach me, send an e-mail to lfdsilva@gmail.com
